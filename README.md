@@ -6,11 +6,22 @@ This repository contains Python programs and projects that I am learning and bui
 
 ## Topics Covered
 
-- Python Basics
-- Functions
-- Patterns
-- Data Structures
-- Mini Projects
+#PYTHON BASICS
+- ## Programs Added
+
+- Factorial
+- Fibonacci
+- Palindrome
+- Prime Number
+- Calculator
+- Largest Number
+- Even Odd
+- Reverse String
+
+#FUNCTIONS
+#PATTERNS
+#DATA STRUCTURES 
+#MINI PROJECTS
 
 ## Goal
 
